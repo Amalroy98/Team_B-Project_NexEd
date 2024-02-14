@@ -1,0 +1,8 @@
+.AboutContainer{
+    background-image: url("../assests/images/banner-3.png");
+   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+}
